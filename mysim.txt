@@ -1,0 +1,8 @@
+0 ANCHORPANE
+0-0 VBOX
+0-0-0 HBOX
+0-0-0-0 LABEL Portfolio App
+0-0-0-1 BUTTON Create New Dog
+0-0-0-2 BUTTON Save Dog
+0-0-0-3 BUTTON Quit and Get Cat
+0-0-1 TEXTAREA Fido...Or nancy
